@@ -12,7 +12,8 @@ This is a simple React project that demonstrates how to make a **POST request us
 
 ## 📸 Screenshot
 
-![Form Screenshot](./screenshot.png)
+![Form Screenshot](./src/screenshot.png)
+
 
 ## How to Run
 
